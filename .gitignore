@@ -1,0 +1,12 @@
+.vs
+Debug
+Release
+*.sln
+Debug/*
+*.filters
+*.user
+*.sln.DotSettings.user
+*.sdf
+*.v11.suo
+*.rar
+*.zip
